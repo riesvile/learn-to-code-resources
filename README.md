@@ -68,6 +68,12 @@
 
 * [Can I Use](https://caniuse.com/)
 
+# Coding games
+
+* [Yare](https://yare.io/)
+* [BattleSnake](https://play.battlesnake.com/)
+
+
 # Coding / Interview Practice
 
 * [LeetCode][https://leetcode.com/]
